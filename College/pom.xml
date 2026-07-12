@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>SteroTypeInSpring</artifactId>
+  <artifactId>College</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>SteroTypeInSpring</name>
+  <name>College</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -27,12 +27,6 @@
       <artifactId>spring-context</artifactId>
       <version>7.0.7</version>
       <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.projectlombok</groupId>
-      <artifactId>lombok</artifactId>
-      <version>1.18.42</version>
-      <scope>provided</scope>
     </dependency>
   </dependencies>
 </project>
