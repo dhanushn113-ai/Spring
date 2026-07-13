@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="700a85dd-8a1e-41d8-b6cd-92a730fe9307" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000451718738" />
+      <entry key="MS500" value="1.0340623259052084" />
+      <entry key="S2" value="1.5584916144175534" />
+      <entry key="S5" value="2.568140934150917" />
+      <entry key="S10" value="3.68991719165191" />
+      <entry key="S30" value="6.051577201361015" />
+      <entry key="S60" value="8.450829509997433" />
+      <entry key="M2" value="12.826193889969772" />
+      <entry key="M5" value="26.127007405736027" />
+      <entry key="M10" value="41.17675665412202" />
+      <entry key="M15" value="49.70189259358924" />
+      <entry key="M30" value="61.217494654137276" />
+      <entry key="H1" value="68.47455193671331" />
+      <entry key="H2" value="72.56382396801487" />
+      <entry key="H4" value="74.73651856602825" />
+      <entry key="D1" value="76.61626766529544" />
+      <entry key="W1" value="76.9450198514647" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="4.240159597636628E-54" />
+      <entry key="MS500" value="2.2493360041297886E-11" />
+      <entry key="S2" value="0.0032201166034326783" />
+      <entry key="S5" value="0.15636527016835863" />
+      <entry key="S10" value="0.6966548047547296" />
+      <entry key="S30" value="2.8238629301420057" />
+      <entry key="S60" value="5.203074154369344" />
+      <entry key="M2" value="8.866003650375083" />
+      <entry key="M5" value="16.018188171665322" />
+      <entry key="M10" value="21.861680880435035" />
+      <entry key="M15" value="24.755261038867427" />
+      <entry key="M30" value="28.38382498702212" />
+      <entry key="H1" value="30.549057421317347" />
+      <entry key="H2" value="31.736002685440162" />
+      <entry key="H4" value="32.35799050186466" />
+      <entry key="D1" value="32.891574433108566" />
+      <entry key="W1" value="32.98447531249247" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="5.1174809410237825E-8" />
+      <entry key="MS500" value="0.038061680872351754" />
+      <entry key="S2" value="0.7916146904777926" />
+      <entry key="S5" value="2.2493964612843524" />
+      <entry key="S10" value="4.054128671953077" />
+      <entry key="S30" value="8.63364901052682" />
+      <entry key="S60" value="13.460329192031246" />
+      <entry key="M2" value="21.535465607075384" />
+      <entry key="M5" value="42.015727015491635" />
+      <entry key="M10" value="62.93569189668994" />
+      <entry key="M15" value="74.37392564296893" />
+      <entry key="M30" value="89.54954416186314" />
+      <entry key="H1" value="98.99446196970734" />
+      <entry key="H2" value="104.28432545642204" />
+      <entry key="H4" value="107.08651079475992" />
+      <entry key="D1" value="109.50647322360456" />
+      <entry key="W1" value="109.92929871368331" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3F2plF0an3icVNju4W85jHA32v2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="700a85dd-8a1e-41d8-b6cd-92a730fe9307" name="Changes" comment="" />
+      <created>1781283170918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781283170918</updated>
+      <workItem from="1781283172061" duration="1087000" />
+      <workItem from="1781330972286" duration="543000" />
+      <workItem from="1781609344450" duration="909000" />
+      <workItem from="1783479055052" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
